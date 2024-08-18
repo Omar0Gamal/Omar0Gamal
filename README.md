@@ -1,6 +1,6 @@
 Hi there 👋
 
-I'm Omar, a software engineer and a freelancer. I have experience in creating websites and chatbots and Minecraft plugins using various technologies such as HTML, CSS, JavaScript, Node.js, Express.js, React.js, Next.js, MySQL, and MongoDB. I love to learn new things and develop innovative solutions. I'm currently working on a project called [**Omar0Gamal**](https://github.com/Omar0Gamal/omar0gamal.github.io), which is a personal website that showcases my skills, projects, and achievements. 🚀
+I’m Omar, a software engineer and a freelancer. I have experience in creating websites, chatbots, and Minecraft plugins using various technologies such as HTML, CSS, JavaScript, Node.js, Express.js, React.js, Next.js, MySQL, MongoDB, C, C++, and computer graphics. I love to learn new things and develop innovative solutions. I’m currently working on a project called [**Omar0Gamal**](https://github.com/Omar0Gamal/omar0gamal.github.io), which is a personal website that showcases my skills, projects, and achievements. 🚀
 
 My website is built with React, vite, Tailwind CSS. It features a portfolio section, a contact form with email notifications, and a dark mode toggle. 🌙 I also use GitHub Actions to automate the deployment process and GitHub Pages to host the website. 🌐
 
