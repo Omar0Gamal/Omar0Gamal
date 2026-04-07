@@ -13,8 +13,6 @@
   Reach me via <a href="mailto:omar.gamal.m@gmail.com"><b>Email</b></a> ✉️ or <a href="https://www.linkedin.com/in/omar-gamal-091044168/"><b>LinkedIn</b></a> 🔗.
 </p>
 
----
-
 ## Languages & Skills
 
 <div align="center">
@@ -46,8 +44,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opengl/opengl-original.svg" height="34" alt="OpenGL" style="display:inline-block;" />
 </div>
 
----
-
 ## Connect
 
 <div align="center">
@@ -64,8 +60,6 @@
     <img src="https://img.shields.io/static/v1?message=Website&logo=google-chrome&label=&color=000000&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="website badge" />
   </a>
 </div>
-
----
 
 ## Contributions
 
