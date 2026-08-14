@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  🏪 <b>Nexus-Commerce</b> (multi-tenant e-commerce SaaS) · 🔐 <b>secure-ssl-server</b> (HTTPS + cert automation) · 🎬 <b>vailcast-player</b> (HLS + watermark overlays) · 🎮 <b>DarkFire</b> (3D engine)
+  🏪 <b>Nexus-Commerce</b> (multi-tenant e-commerce SaaS) · 🕸️ <b>AxiomGraph</b> (hybrid graph-vector DB for GraphRAG & agentic systems) · 🎮 <b>DarkFire</b> (3D engine)
 </p>
 
 <p align="center">
