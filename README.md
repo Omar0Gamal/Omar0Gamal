@@ -15,60 +15,25 @@ Backend, distributed systems, and full-stack engineer with 4+ years of productio
 
 ## Featured Projects
 
-### 1. Nexus Commerce
+* **[Nexus Commerce](https://github.com/Omar0Gamal/Nexus-Commerce)** — Multi-tenant e-commerce platform featuring an edge tenant router, a Go modular monolith, Redis inventory locks, and an asynchronous job queue.  
+  `Go 1.24` · `Gin` · `sqlc` · `pgx` · `PostgreSQL 16` · `Redis` · `Cloudflare Workers & KV` · `Caddy` · `Next.js` · `Paymob`  
+  [Repository](https://github.com/Omar0Gamal/Nexus-Commerce)
 
-Multi-tenant e-commerce platform featuring an edge tenant router, a Go modular monolith, Redis inventory locks, and a Next.js merchant operations console and customer storefront.
+* **[JobTrack](https://github.com/Omar0Gamal/JobTrack)** — Production-grade job application tracker engineered with dual personal and demo sandboxes, signed guest sessions, SSRF-hardened autofill, and CI testing.  
+  `Next.js 15` · `React 19` · `TypeScript (strict)` · `Prisma` · `PostgreSQL (Neon)` · `Auth.js v5` · `Tailwind CSS` · `Vitest (207 tests)` · `Playwright (5 E2E)`  
+  [Live Demo](https://jobtrack-demo.vercel.app) · [Repository](https://github.com/Omar0Gamal/JobTrack)
 
-<p align="center">
-  <a href="https://github.com/Omar0Gamal/Nexus-Commerce">
-    <img src="https://raw.githubusercontent.com/Omar0Gamal/Nexus-Commerce/main/docs/screenshots/hero.png" alt="Nexus Commerce Storefront and Merchant Console" width="100%" />
-  </a>
-</p>
+* **[Cartwright](https://github.com/Omar0Gamal/cartwright-saga)** — Distributed saga orchestrator coordinating polyglot services with transactional outbox, idempotency keys, and chaos testing against mid-flight crashes.  
+  `Go` · `ASP.NET (C#)` · `Python` · `gRPC` · `Protocol Buffers` · `NATS JetStream` · `PostgreSQL` · `k3s` · `Terraform` · `Helm`  
+  [Repository](https://github.com/Omar0Gamal/cartwright-saga)
 
-- **Stack:** Go 1.24, Gin, sqlc, pgx, PostgreSQL 16, Redis (carts, 15-minute inventory reservation locks, LPUSH/BRPOP job queue), Cloudflare Workers & KV, Caddy, Next.js, Paymob
-- **Links:** [Repository](https://github.com/Omar0Gamal/Nexus-Commerce)
+* **[AxiomGraph](https://github.com/Omar0Gamal/AxiomGraph)** — Hybrid graph-vector database engineered for GraphRAG workloads, delivering 33,000+ QPS on GPU and 8,600 QPS on CPU while holding 1M nodes under 2 GB RAM.  
+  `C++17` · `CUDA (cuVS CAGRA)` · `HNSW` · `Python (nanobind)` · `SQLite` · `CMake`  
+  [Repository](https://github.com/Omar0Gamal/AxiomGraph)
 
----
-
-### 2. JobTrack
-
-Production-grade job application tracker engineered with dual personal and demo sandboxes, signed guest sessions, and SSRF-hardened autofill.
-
-<p align="center">
-  <a href="https://jobtrack-demo.vercel.app">
-    <img src="https://raw.githubusercontent.com/Omar0Gamal/JobTrack/main/docs/screenshots/hero-showcase.png" alt="JobTrack Flagship Studio Command Center" width="100%" />
-  </a>
-</p>
-
-- **Stack:** Next.js 15, React 19, TypeScript (strict), Prisma, PostgreSQL (Neon), Auth.js v5, Tailwind CSS, 207 Vitest tests + 5 Playwright E2E tests, GitHub Actions CI
-- **Links:** [Live Demo](https://jobtrack-demo.vercel.app) · [Repository](https://github.com/Omar0Gamal/JobTrack)
-
----
-
-### 3. Cartwright
-
-Distributed saga orchestrator coordinating polyglot services with transactional outbox, idempotency keys, and chaos testing against mid-flight crashes.
-
-- **Stack:** Go (Saga Orchestrator), ASP.NET / C# (Billing), Python (Notification Service), gRPC, Protocol Buffers, NATS JetStream, PostgreSQL, k3s, Terraform, Helm
-- **Links:** [Repository](https://github.com/Omar0Gamal/cartwright-saga)
-
----
-
-### 4. AxiomGraph
-
-Hybrid graph-vector database engineered for GraphRAG workloads, delivering 33,000+ QPS on GPU and 8,600 QPS on CPU while holding 1M nodes under 2 GB RAM.
-
-- **Stack:** C++17, CUDA (cuVS CAGRA), HNSW, Python (nanobind SDK), SQLite, CMake
-- **Links:** [Repository](https://github.com/Omar0Gamal/AxiomGraph)
-
----
-
-### 5. llama.cpp (PR #26933)
-
-Fixed two out-of-bounds memory vulnerabilities in the RPC server through pre-execution tensor shape validation on `SET_ROWS` and `GET_ROWS`.
-
-- **Stack:** C++, RPC Server, Tensor Graph Validation
-- **Links:** [Pull Request #26933](https://github.com/ggml-org/llama.cpp/pull/26933)
+* **[llama.cpp (PR #26933)](https://github.com/ggml-org/llama.cpp/pull/26933)** — Fixed two out-of-bounds memory vulnerabilities in the RPC server through pre-execution tensor shape validation on `SET_ROWS` and `GET_ROWS`.  
+  `C++` · `RPC Server` · `Tensor Validation`  
+  [Pull Request #26933](https://github.com/ggml-org/llama.cpp/pull/26933)
 
 ---
 
